@@ -1,5 +1,5 @@
 # Strogonoff de Frango :chicken:
-### ** Ingredientes **
+### **Ingredientes**
  - 1 quilo
  - Novo item
  - Novo item 2
